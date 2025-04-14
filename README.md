@@ -18,5 +18,7 @@ To ensure transparency, I used LIME (Local Interpretable Model-agnostic Explanat
 
 Key Achievements:
 Model Performance: Achieved 0.977 ROC-AUC, 0.844 AUC-PR, and 0.85 recall for fraud detection using Random Forest.
+
 Explainability: Applied LIME to provide insights into fraud predictions, identifying critical features like Distance_From_NonFraud and V14.
+
 Financial Impact: Demonstrated ~$500,000 in savings through a cost-benefit analysis, balancing fraud detection with operational efficiency.
