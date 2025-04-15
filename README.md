@@ -3,7 +3,7 @@
 Every bank aims to detect fraudulent transactions to protect their customers, freeze suspicious credit cards, and save millions of dollars annually by preventing financial losses.
 
 ## **Dataset:** 
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud (The dataset is highly imbalanced with 492 frauds out of 284,807 transactions. The positive class (frauds) accounts for 0.172% of all transactions.)
+The [dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) is highly imbalanced with 492 frauds out of 284,807 transactions. The positive class (frauds) accounts for 0.172% of all transactions.
 
 The dataset contains transactions made by credit cards in September 2013 by European cardholders.
 This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
